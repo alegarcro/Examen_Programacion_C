@@ -82,52 +82,10 @@ CMakeFiles/Examen_Programacion_C.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Examen_Programacion_C.dir/main.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\main.cpp" -o CMakeFiles\Examen_Programacion_C.dir\main.cpp.s
 
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/flags.make
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj: C:/Users/Alex\ Garcia/Desktop/NOCIONES\ CLAVE(2)/Examen_Programacion_C/Ejercicio\ 4/Ej4.cpp
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj -MF CMakeFiles\Examen_Programacion_C.dir\Ejercicio_4\Ej4.cpp.obj.d -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_4\Ej4.cpp.obj -c "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 4\Ej4.cpp"
-
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 4\Ej4.cpp" > CMakeFiles\Examen_Programacion_C.dir\Ejercicio_4\Ej4.cpp.i
-
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 4\Ej4.cpp" -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_4\Ej4.cpp.s
-
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/flags.make
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj: C:/Users/Alex\ Garcia/Desktop/NOCIONES\ CLAVE(2)/Examen_Programacion_C/Ejercicio\ 3/EJ3.cpp
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj -MF CMakeFiles\Examen_Programacion_C.dir\Ejercicio_3\EJ3.cpp.obj.d -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_3\EJ3.cpp.obj -c "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 3\EJ3.cpp"
-
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 3\EJ3.cpp" > CMakeFiles\Examen_Programacion_C.dir\Ejercicio_3\EJ3.cpp.i
-
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 3\EJ3.cpp" -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_3\EJ3.cpp.s
-
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/flags.make
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj: C:/Users/Alex\ Garcia/Desktop/NOCIONES\ CLAVE(2)/Examen_Programacion_C/Ejercicio\ 2/EJ2.cpp
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj -MF CMakeFiles\Examen_Programacion_C.dir\Ejercicio_2\EJ2.cpp.obj.d -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_2\EJ2.cpp.obj -c "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 2\EJ2.cpp"
-
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 2\EJ2.cpp" > CMakeFiles\Examen_Programacion_C.dir\Ejercicio_2\EJ2.cpp.i
-
-CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 2\EJ2.cpp" -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_2\EJ2.cpp.s
-
 CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/flags.make
 CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj: C:/Users/Alex\ Garcia/Desktop/NOCIONES\ CLAVE(2)/Examen_Programacion_C/Ejercicio1/EJ1.cpp
 CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj -MF CMakeFiles\Examen_Programacion_C.dir\Ejercicio1\EJ1.cpp.obj.d -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio1\EJ1.cpp.obj -c "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio1\EJ1.cpp"
 
 CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.i: cmake_force
@@ -138,22 +96,64 @@ CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio1\EJ1.cpp" -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio1\EJ1.cpp.s
 
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/flags.make
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj: C:/Users/Alex\ Garcia/Desktop/NOCIONES\ CLAVE(2)/Examen_Programacion_C/Ejercicio\ 2/EJ2.cpp
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj -MF CMakeFiles\Examen_Programacion_C.dir\Ejercicio_2\EJ2.cpp.obj.d -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_2\EJ2.cpp.obj -c "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 2\EJ2.cpp"
+
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 2\EJ2.cpp" > CMakeFiles\Examen_Programacion_C.dir\Ejercicio_2\EJ2.cpp.i
+
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 2\EJ2.cpp" -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_2\EJ2.cpp.s
+
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/flags.make
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj: C:/Users/Alex\ Garcia/Desktop/NOCIONES\ CLAVE(2)/Examen_Programacion_C/Ejercicio\ 3/EJ3.cpp
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj -MF CMakeFiles\Examen_Programacion_C.dir\Ejercicio_3\EJ3.cpp.obj.d -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_3\EJ3.cpp.obj -c "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 3\EJ3.cpp"
+
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 3\EJ3.cpp" > CMakeFiles\Examen_Programacion_C.dir\Ejercicio_3\EJ3.cpp.i
+
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 3\EJ3.cpp" -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_3\EJ3.cpp.s
+
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/flags.make
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj: C:/Users/Alex\ Garcia/Desktop/NOCIONES\ CLAVE(2)/Examen_Programacion_C/Ejercicio\ 4/Ej4.cpp
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj: CMakeFiles/Examen_Programacion_C.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj -MF CMakeFiles\Examen_Programacion_C.dir\Ejercicio_4\Ej4.cpp.obj.d -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_4\Ej4.cpp.obj -c "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 4\Ej4.cpp"
+
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 4\Ej4.cpp" > CMakeFiles\Examen_Programacion_C.dir\Ejercicio_4\Ej4.cpp.i
+
+CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Alex Garcia\Desktop\NOCIONES CLAVE(2)\Examen_Programacion_C\Ejercicio 4\Ej4.cpp" -o CMakeFiles\Examen_Programacion_C.dir\Ejercicio_4\Ej4.cpp.s
+
 # Object files for target Examen_Programacion_C
 Examen_Programacion_C_OBJECTS = \
 "CMakeFiles/Examen_Programacion_C.dir/main.cpp.obj" \
-"CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj" \
-"CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj" \
+"CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj" \
 "CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj" \
-"CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj"
+"CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj" \
+"CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj"
 
 # External object files for target Examen_Programacion_C
 Examen_Programacion_C_EXTERNAL_OBJECTS =
 
 Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/main.cpp.obj
-Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj
-Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj
-Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj
 Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj
+Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj
+Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj
+Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj
 Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/build.make
 Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/linkLibs.rsp
 Examen_Programacion_C.exe: CMakeFiles/Examen_Programacion_C.dir/objects1.rsp
