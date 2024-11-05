@@ -128,53 +128,101 @@ Examen_Programacion_C/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/build
 .PHONY : Examen_Programacion_C/fast
 
-Ejercicio1/Identificacion.obj: Ejercicio1/Identificacion.cpp.obj
-.PHONY : Ejercicio1/Identificacion.obj
+Ejercicio1/EJ1.obj: Ejercicio1/EJ1.cpp.obj
+.PHONY : Ejercicio1/EJ1.obj
 
 # target to build an object file
-Ejercicio1/Identificacion.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/Identificacion.cpp.obj
-.PHONY : Ejercicio1/Identificacion.cpp.obj
+Ejercicio1/EJ1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.obj
+.PHONY : Ejercicio1/EJ1.cpp.obj
 
-Ejercicio1/Identificacion.i: Ejercicio1/Identificacion.cpp.i
-.PHONY : Ejercicio1/Identificacion.i
+Ejercicio1/EJ1.i: Ejercicio1/EJ1.cpp.i
+.PHONY : Ejercicio1/EJ1.i
 
 # target to preprocess a source file
-Ejercicio1/Identificacion.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/Identificacion.cpp.i
-.PHONY : Ejercicio1/Identificacion.cpp.i
+Ejercicio1/EJ1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.i
+.PHONY : Ejercicio1/EJ1.cpp.i
 
-Ejercicio1/Identificacion.s: Ejercicio1/Identificacion.cpp.s
-.PHONY : Ejercicio1/Identificacion.s
+Ejercicio1/EJ1.s: Ejercicio1/EJ1.cpp.s
+.PHONY : Ejercicio1/EJ1.s
 
 # target to generate assembly for a file
-Ejercicio1/Identificacion.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/Identificacion.cpp.s
-.PHONY : Ejercicio1/Identificacion.cpp.s
+Ejercicio1/EJ1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio1/EJ1.cpp.s
+.PHONY : Ejercicio1/EJ1.cpp.s
 
-Ejercicio_2/Diasemana.obj: Ejercicio_2/Diasemana.cpp.obj
-.PHONY : Ejercicio_2/Diasemana.obj
+Ejercicio_2/EJ2.obj: Ejercicio_2/EJ2.cpp.obj
+.PHONY : Ejercicio_2/EJ2.obj
 
 # target to build an object file
-Ejercicio_2/Diasemana.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/Diasemana.cpp.obj
-.PHONY : Ejercicio_2/Diasemana.cpp.obj
+Ejercicio_2/EJ2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.obj
+.PHONY : Ejercicio_2/EJ2.cpp.obj
 
-Ejercicio_2/Diasemana.i: Ejercicio_2/Diasemana.cpp.i
-.PHONY : Ejercicio_2/Diasemana.i
+Ejercicio_2/EJ2.i: Ejercicio_2/EJ2.cpp.i
+.PHONY : Ejercicio_2/EJ2.i
 
 # target to preprocess a source file
-Ejercicio_2/Diasemana.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/Diasemana.cpp.i
-.PHONY : Ejercicio_2/Diasemana.cpp.i
+Ejercicio_2/EJ2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.i
+.PHONY : Ejercicio_2/EJ2.cpp.i
 
-Ejercicio_2/Diasemana.s: Ejercicio_2/Diasemana.cpp.s
-.PHONY : Ejercicio_2/Diasemana.s
+Ejercicio_2/EJ2.s: Ejercicio_2/EJ2.cpp.s
+.PHONY : Ejercicio_2/EJ2.s
 
 # target to generate assembly for a file
-Ejercicio_2/Diasemana.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/Diasemana.cpp.s
-.PHONY : Ejercicio_2/Diasemana.cpp.s
+Ejercicio_2/EJ2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_2/EJ2.cpp.s
+.PHONY : Ejercicio_2/EJ2.cpp.s
+
+Ejercicio_3/EJ3.obj: Ejercicio_3/EJ3.cpp.obj
+.PHONY : Ejercicio_3/EJ3.obj
+
+# target to build an object file
+Ejercicio_3/EJ3.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.obj
+.PHONY : Ejercicio_3/EJ3.cpp.obj
+
+Ejercicio_3/EJ3.i: Ejercicio_3/EJ3.cpp.i
+.PHONY : Ejercicio_3/EJ3.i
+
+# target to preprocess a source file
+Ejercicio_3/EJ3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.i
+.PHONY : Ejercicio_3/EJ3.cpp.i
+
+Ejercicio_3/EJ3.s: Ejercicio_3/EJ3.cpp.s
+.PHONY : Ejercicio_3/EJ3.s
+
+# target to generate assembly for a file
+Ejercicio_3/EJ3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_3/EJ3.cpp.s
+.PHONY : Ejercicio_3/EJ3.cpp.s
+
+Ejercicio_4/Ej4.obj: Ejercicio_4/Ej4.cpp.obj
+.PHONY : Ejercicio_4/Ej4.obj
+
+# target to build an object file
+Ejercicio_4/Ej4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.obj
+.PHONY : Ejercicio_4/Ej4.cpp.obj
+
+Ejercicio_4/Ej4.i: Ejercicio_4/Ej4.cpp.i
+.PHONY : Ejercicio_4/Ej4.i
+
+# target to preprocess a source file
+Ejercicio_4/Ej4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.i
+.PHONY : Ejercicio_4/Ej4.cpp.i
+
+Ejercicio_4/Ej4.s: Ejercicio_4/Ej4.cpp.s
+.PHONY : Ejercicio_4/Ej4.s
+
+# target to generate assembly for a file
+Ejercicio_4/Ej4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Examen_Programacion_C.dir\build.make CMakeFiles/Examen_Programacion_C.dir/Ejercicio_4/Ej4.cpp.s
+.PHONY : Ejercicio_4/Ej4.cpp.s
 
 main.obj: main.cpp.obj
 .PHONY : main.obj
@@ -209,12 +257,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Examen_Programacion_C
-	@echo ... Ejercicio1/Identificacion.obj
-	@echo ... Ejercicio1/Identificacion.i
-	@echo ... Ejercicio1/Identificacion.s
-	@echo ... Ejercicio_2/Diasemana.obj
-	@echo ... Ejercicio_2/Diasemana.i
-	@echo ... Ejercicio_2/Diasemana.s
+	@echo ... Ejercicio1/EJ1.obj
+	@echo ... Ejercicio1/EJ1.i
+	@echo ... Ejercicio1/EJ1.s
+	@echo ... Ejercicio_2/EJ2.obj
+	@echo ... Ejercicio_2/EJ2.i
+	@echo ... Ejercicio_2/EJ2.s
+	@echo ... Ejercicio_3/EJ3.obj
+	@echo ... Ejercicio_3/EJ3.i
+	@echo ... Ejercicio_3/EJ3.s
+	@echo ... Ejercicio_4/Ej4.obj
+	@echo ... Ejercicio_4/Ej4.i
+	@echo ... Ejercicio_4/Ej4.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
